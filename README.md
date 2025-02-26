@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU3_LobosHuargos.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 26/02/2025
 
 Proyecto: 
 
@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Juan Jose Barrera Linde    :octocat:     
+ * :bust_in_silhouette:  Jorge Cano Melero     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -45,6 +45,51 @@ Miembros:
 -----
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+
+En esta práctica se va realizar un análisis de la usabilidad de aplicaciones web basadas en artesanía y reciclaje en la provincia de Granada. De estas aplicaciones, se ha seleccionado para su estudio
+la página web "Kerarqueo". Kerarqueo es una cooperativa que ofrece productos artesanales de cerámica dedicada al Patrimonio además de reproducciones arqueológicas.
+
+Para realizar este análisis, se va aplicar el método "User Research Plan" o "Plan de Investigación de Usuarios". Este método consiste en la realización de un documento que recoja como se lleva a cabo
+una investigación sobre los usuarios de un producto o servicio, siendo su propósito asegurar que el estudio tenga unos objetivos claros, una metodología bien definida y que los resultadois sean útiles 
+para la toma de decisiones.
+
+La estrategia a seguir se basará en la consecución de los siguientes objetivos:
+
+- Conocer las necesidades de los usuarios y sus motivaciones.
+- Conocer el comportamiento de los usuarios interesados en dichos productos.
+- Conseguir una experiencia satisfactoria por parte de los usuarios.
+
+Para afrontar estos objetivos, será necesario analizar:
+
+- Cuáles son los usuarios principales de la página, pudiendo ser turistas o coleccionistas (entre otros).
+- Cuáles son los factores que influyen en la decisión de la compra, como la calidad o el precio.
+- Cuál es el nivel de conocimiento que tienen sobre cerámica y arqueología.
+- Qué problemas se encuentran a la hora de comprar estos productos.
+
+Para realizar el análisis, se va a seguir el método de investigación basado en información cualitativa y cuantitativa:
+
+- Información cualitativa
+  
+   - Entrevistas en profundidad, que nos permiten conocer las experiencias de los usuarios que han realizado compras sobre productos artesanales y que han realizado cursos de formación o talleres para 
+     elaborar dichos productos. También servirá para conocer cuáles son las experiencias y problemas que hayan tenido a la hora de ralizar éstas actividades.
+     
+   - Observación de los usuarios en tiendas, ferias y directamente sobre la página, con el fin de poder encontrar pautas que sigan los usuarios al navegar por ésta y poder analizar con más claridad qué es lo que buscan.
+     
+   - Experiencia final del usuario, a través de reseñas, comentarios y opiniones al comprar un producto, realizar un taller o curso.
+     
+   - Foro de debate, donde los usuarios puedan expresar cuáles son sus inquietudes, gustos y problemas con experiencias relacionadas en empresas del sector.
+
+- Información cuantitativa
+
+   - Encuentas en redes sociales y en la página web, con el fin de conocer los hábitos de los usuarios y cuáles son sus preferencias.
+     
+   - Análisis de ventas y datos de las compras realizadas, para poder observar cuáles son los productos más vendidos y las temporadas en las que más demanada hay.
+ 
+   - Análisis de los comentarios y "feedback" que proporcionen los usuarios.
+ 
+   - Análisis de las actividades de los usuarios en la plataforma, como el número de visitas, páginas más visitadas o qué acciones son las más realizadas.
+
+Finalmente, el perfil de los usuarios que participarán serán turistas, personas interesadas en souvenirs históricos, coleccionistas y personas interesadas en decoración.
 
 
 ### 1.b Competitive Analysis
