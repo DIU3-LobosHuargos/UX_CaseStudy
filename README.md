@@ -98,6 +98,20 @@ Finalmente, el perfil de los usuarios que participarán serán turistas, persona
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
+La aplicación web elegida para su estudio ha sido "Kerarqueo" (como se ha indicado previamente), debido a que hemos detectado defectos y características que pueden emporar la experiencia de usuario al visitar
+dicha página.
+
+Se han elegido una serie de empresas como competidoras ubicadas en el mismo sector para ver cómo abordan los defectos que se aprecian en la plataforma "Kearqueo". Las empresas elegidas han sido:
+
+- Cuit: empresa dedicada al diseño, artesanía y experiencias en torno a la cerámica. Ofrecen distintos servicios como cursos de formación y también venden productos elaborados artesanalmente.
+
+- Artesanía Álvarez: empresa dedicada a la elaboración de productos artesanales en Granada. Esta es una empresa interesante de comparar puesto que está en la misma provincia y supone una competencia directa.
+  Además, Google posicina esta página de las primeras al realizar una búsqueda de productos artesanos en Granada.
+
+A continuación se muestra el análisis competitivo realizado, donde se han tenido en cuenta distintos aspectos:
+
+(Introducir imagen del análisis competitivo hecho con Figma)
+
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
