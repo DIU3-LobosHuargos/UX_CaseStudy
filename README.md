@@ -112,8 +112,7 @@ Se han elegido una serie de empresas como competidoras para ver cómo abordan lo
 
 A continuación se muestra el análisis competitivo realizado, donde se han tenido en cuenta distintos aspectos:
 
-(Introducir imagen del análisis competitivo hecho con Figma)
-
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
