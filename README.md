@@ -47,11 +47,11 @@ Miembros:
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 En esta práctica se va realizar un análisis de la usabilidad de aplicaciones web basadas en artesanía y reciclaje en la provincia de Granada. De estas aplicaciones, se ha seleccionado para su estudio
-la página web "Kerarqueo". Kerarqueo es una cooperativa que ofrece productos artesanales de cerámica dedicada al Patrimonio además de reproducciones arqueológicas.
+la página web "Kerarqueo". Hemos seleccionado esta plataforma porque pensamos que tiene bastantes puntos débiles que se podrían mejorar.
 
-Para realizar este análisis, se va aplicar el método "User Research Plan" o "Plan de Investigación de Usuarios". Este método consiste en la realización de un documento que recoja como se lleva a cabo
-una investigación sobre los usuarios de un producto o servicio, siendo su propósito asegurar que el estudio tenga unos objetivos claros, una metodología bien definida y que los resultadois sean útiles 
-para la toma de decisiones.
+Kerarqueo es una cooperativa que ofrece productos artesanales de cerámica dedicada al Patrimonio además de reproducciones arqueológicas. No tenemos experiencia en este sector pero si hemos utilizado otras 
+plataformas que nos permiten realizar la compra de productos (como por ejemplo Amazon) o la compra de cursos de formación (como por ejemplo Udemy). Partiendo de plataformas como las mencionadas anteriormente,
+vamos a enfocar nuestra estrategia en la mejora de ventas de productos así como en mejorar y dar más visibilidad a los cursos de formación que puede ofrecer Kerarqueo.
 
 La estrategia a seguir se basará en la consecución de los siguientes objetivos:
 
@@ -81,7 +81,7 @@ Para realizar el análisis, se va a seguir el método de investigación basado e
 
 - Información cuantitativa
 
-   - Encuentas en redes sociales y en la página web, con el fin de conocer los hábitos de los usuarios y cuáles son sus preferencias.
+   - Encuestas en redes sociales y en la página web, con el fin de conocer los hábitos de los usuarios y cuáles son sus preferencias.
      
    - Análisis de ventas y datos de las compras realizadas, para poder observar cuáles son los productos más vendidos y las temporadas en las que más demanada hay.
  
@@ -89,7 +89,7 @@ Para realizar el análisis, se va a seguir el método de investigación basado e
  
    - Análisis de las actividades de los usuarios en la plataforma, como el número de visitas, páginas más visitadas o qué acciones son las más realizadas.
 
-Finalmente, el perfil de los usuarios que participarán serán turistas, personas interesadas en souvenirs históricos, coleccionistas y personas interesadas en decoración.
+Finalmente, el perfil de los usuarios que se tendrán en cuenta en este análisis serán turistas, personas interesadas en souvenirs históricos, coleccionistas y personas interesadas en decoración.
 
 
 ### 1.b Competitive Analysis
