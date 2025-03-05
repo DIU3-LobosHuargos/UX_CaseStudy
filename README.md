@@ -144,7 +144,7 @@ Consideramos que finalmente el mejor competidor sería "Cuit" por ser un competi
 
 - Enlace al documento "Usability Review":
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/Usability-review.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/Usability-review.pdf)
+![ https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/Usability-review.pdf ]( https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/Usability-review.pdf )
 
 - Puntuación final obtenida del análisis:
   
