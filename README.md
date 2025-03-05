@@ -114,6 +114,9 @@ A continuación se muestra el análisis competitivo realizado, donde se han teni
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png)
 
+Consideramos que finalmente el mejor competidor sería "Cuit" por ser un competidor directo que ofrece los mismos servicios que "Kerarqueo" a unos precios muy competitivos y con una experiencia de usuario bastante más alta.
+
+
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
@@ -138,6 +141,31 @@ A continuación se muestra el análisis competitivo realizado, donde se han teni
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
 <br>
+
+- Enlace al documento "Usability Review":
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/Usability-review.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/Usability-review.pdf)
+
+- Puntuación final obtenida del análisis:
+  
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/usability-review-puntuacion.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/usability-review-puntuacion.png)
+
+- Comentario sobre la valoración obtenida:
+
+  Tras el análisis de experiencia de usuario realizado, vamos a desglosar los puntos que consideramos necesarios para que dicha experiencia sea satisfactoria:
+
+  - Mejorar la usabilidad de la página a través de una estructura uniforme, bien definida, donde las fuentes (texto e imágenes) y los colores sean los mismos al navegar entre páginas y que la información se pueda
+    transmitir con facilidad, siendo clara y concisa.
+
+  - Conseguir que la venta de artículos y los cursos/talleres que ofrecen sea la actividad principal, apareciendo de manera directa al acceder a la página.
+ 
+  - Mejorar la funcionalidad del carrito de compra, puesto que no está implementado y la alternativa que tienen es muy confusa. 
+ 
+  - Uso de herramientas como una barra de búsqueda que permita búsquedas de manera inmediata, favoreciendo a clientes habituales y consiguiendo que la compra de productos en general sea más directa.
+ 
+  - Apostar por el marketing y visibilidad, haciendo que los enlaces a redes sociales como Instagram o Facebook funcionen de manera correcta y que siempre estén presentes al navegar en la plataforma (a través del footer, por ejemplo) y       que se pueda acceder a la ubicación directamente a través de Google Maps si el cliente lo desea.
+
+Consiguiendo mejorar los aspectos tenidos en cuenta anteriormente, se puede obtener una página con un diseño mucho más atractivo, que transmita sus productos de forma clara, rápida y sencilla, colocándose a la altura de los competidores y consiguiendo una experiencia satisfactoria por parte de los usuarios.
 
 ## Paso 2. UX Design  
 
