@@ -5,11 +5,11 @@
 
   Se adjunta el resultado del análisis competitivo en formato pdf y png de las empresas de Udemy, Artesanía Álvarez y Cui.
 
-  - Formato PNG:
+  Formato PNG:
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png)
     
-    - Formato PDF:
+  Formato PDF:
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png)
   
