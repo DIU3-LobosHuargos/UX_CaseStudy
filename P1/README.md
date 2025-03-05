@@ -9,7 +9,7 @@
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png)
     
-  - Formato PDF:
+    - Formato PDF:
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png)
   
