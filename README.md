@@ -112,7 +112,7 @@ Se han elegido una serie de empresas como competidoras para ver cómo abordan lo
 
 A continuación se muestra el análisis competitivo realizado, donde se han tenido en cuenta distintos aspectos:
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisis-competitivo.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisis-competitivo.pdf)
 
 
 ### 1.c Personas
