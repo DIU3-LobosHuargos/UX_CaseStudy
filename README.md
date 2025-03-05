@@ -101,7 +101,9 @@ Finalmente, el perfil de los usuarios que se tendrán en cuenta en este análisi
 La aplicación web elegida para su estudio ha sido "Kerarqueo" (como se ha indicado previamente), debido a que hemos detectado defectos y características que pueden emporar la experiencia de usuario al visitar
 dicha página.
 
-Se han elegido una serie de empresas como competidoras ubicadas en el mismo sector para ver cómo abordan los defectos que se aprecian en la plataforma "Kearqueo". Las empresas elegidas han sido:
+Se han elegido una serie de empresas como competidoras para ver cómo abordan los defectos que se aprecian en la plataforma "Kearqueo". Las empresas elegidas han sido:
+
+- Udemy: plataforma de cursos online que cuenta con una amplia variedad de cursos y con precios muy competitivos.
 
 - Cuit: empresa dedicada al diseño, artesanía y experiencias en torno a la cerámica. Ofrecen distintos servicios como cursos de formación y también venden productos elaborados artesanalmente.
 
