@@ -112,7 +112,7 @@ Se han elegido una serie de empresas como competidoras para ver cómo abordan lo
 
 A continuación se muestra el análisis competitivo realizado, donde se han tenido en cuenta distintos aspectos:
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisi-competitivo.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/analisis-competitivo.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/analisis-competitivo.png)
 
 Consideramos que finalmente el mejor competidor sería "Cuit" por ser un competidor directo que ofrece los mismos servicios que "Kerarqueo" a unos precios muy competitivos y con una experiencia de usuario bastante más alta.
 
@@ -125,7 +125,8 @@ Consideramos que finalmente el mejor competidor sería "Cuit" por ser un competi
 
 Loretta es una chica francesa que trabaja como diseñadora de interior en Francia. Tiene su propia empresa y le encanta viajar por todo el mundo, aprendiendo nuevas culturas y arte que pueda incluir como posibles diseños para sus proyectos de interiorismo. Viaja a Granada y se queda maravillada con su arte, por lo que decide comprar artículos artesanos y busca una tienda que pueda ofrecérselos.
 
-imagen de loretta
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta.png)
+
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
@@ -145,13 +146,13 @@ imagen de loretta
 
 <br>
 
-- Enlace al documento "Usability Review":
+- Enlace al documento PDF "Usability Review":
 
-![ https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/Usability-review.pdf ]( https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/Usability-review.pdf )
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/Usability-review.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/Usability-review.pdf)
 
 - Puntuación final obtenida del análisis:
   
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/usability-review-puntuacion.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/usability-review-puntuacion.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/usability-review-puntuacion.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/usability-review-puntuacion.png)
 
 - Comentario sobre la valoración obtenida:
 
@@ -169,6 +170,7 @@ imagen de loretta
   - Apostar por el marketing y visibilidad, haciendo que los enlaces a redes sociales como Instagram o Facebook funcionen de manera correcta y que siempre estén presentes al navegar en la plataforma (a través del footer, por ejemplo) y       que se pueda acceder a la ubicación directamente a través de Google Maps si el cliente lo desea.
 
 Consiguiendo mejorar los aspectos tenidos en cuenta anteriormente, se puede obtener una página con un diseño mucho más atractivo, que transmita sus productos de forma clara, rápida y sencilla, colocándose a la altura de los competidores y consiguiendo una experiencia satisfactoria por parte de los usuarios.
+
 
 ## Paso 2. UX Design  
 
