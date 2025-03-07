@@ -134,6 +134,10 @@ Loretta es una chica francesa que trabaja como diseñadora de interior en Franci
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
+Loretta va a comprar un producto artesano y busca una tienda online donde pueda comprarlo. Se ha elegido esta experiencia porque Kerarqueo ofrece este tipo de servicio y sería un caso que podría ocurrir.
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta-map.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta-map.png)
+
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
