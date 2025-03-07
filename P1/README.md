@@ -13,7 +13,12 @@
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisis-competitivo.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/analisis-competitivo.pdf)
   
-- 2 Personas 
+- 2 Personas
+
+  Se adjunta imagen de Loretta en formato PNG
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/loretta.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img-resultados/loretta.png)
+  
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad
 
