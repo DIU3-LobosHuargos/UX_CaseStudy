@@ -123,6 +123,9 @@ Consideramos que finalmente el mejor competidor sería "Cuit" por ser un competi
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
+Loretta es una chica francesa que trabaja como diseñadora de interior en Francia. Tiene su propia empresa y le encanta viajar por todo el mundo, aprendiendo nuevas culturas y arte que pueda incluir como posibles diseños para sus proyectos de interiorismo. Viaja a Granada y se queda maravillada con su arte, por lo que decide comprar artículos artesanos y busca una tienda que pueda ofrecérselos.
+
+imagen de loretta
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
