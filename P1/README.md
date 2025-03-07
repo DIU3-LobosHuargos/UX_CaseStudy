@@ -12,14 +12,22 @@
   Formato PDF:
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/analisis-competitivo.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/analisis-competitivo.pdf)
+
   
 - 2 Personas
 
   Se adjunta imagen de Loretta en formato PNG
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta.png)
+
   
 - 2 User Journey Map  ( 1 por persona)
+
+  Journey map de Loretta
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta-map.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta-map.png)
+
+
 - Revisión de Usabilidad
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/Usability-review.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/Usability-review.pdf)
