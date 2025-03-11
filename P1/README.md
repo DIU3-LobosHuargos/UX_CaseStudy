@@ -32,7 +32,7 @@
 
   Journey map de Ted
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/ted-map.jpg](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/ted-map.jgp)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/ted-map.jpg](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/ted-map.jpg)
 
 - Revisión de Usabilidad
 
