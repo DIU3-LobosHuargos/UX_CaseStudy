@@ -127,6 +127,9 @@ Loretta es una chica francesa que trabaja como diseñadora de interior en Franci
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta.png)
 
+Ted, consultor empresarial que viaja frecuentemente, disfruta de eventos privados sobre artesanía y colecciona piezas exclusivas. Busca plataformas digitales para contactar con artesanos y reservar compras o experiencias con antelación.
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/ted.jpg](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/ted.jpg)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
@@ -138,6 +141,9 @@ Loretta va a comprar un producto artesano y busca una tienda online donde pueda 
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta-map.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta-map.png)
 
+Ted asiste a una conferencia en Barcelona y, durante su tiempo libre, busca piezas de cerámica artesanal para agregar a su colección privada. Quiere contactar con un artesano local que trabaje con técnicas tradicionales y necesita una plataforma donde pueda ver su trabajo, confirmar que lo ha realizado el propio artesano y reservar una compra antes de regresar a EE.UU.
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/ted-map.jpg](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/ted-map.jpg)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
