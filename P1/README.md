@@ -38,6 +38,7 @@
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/Usability-review.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/Usability-review.pdf)
 
+- Valoración final sobre la práctica
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+  Con esta práctica hemos aprendido a realizar un análisis de la usabilidad de una página web, definiendo primero que estrategia vamos a seguir para posteriormente analizar empresas cuyas funciones siguen la estrategia que se ha fijado (venta de productos), y finalmente poder medir la usabilidad de la página en cuestión teniendo en cuenta diversas secciones que se han ido puntuando.
+  También hemos tenido un primer contacto con Figma, que nos ha servido para familiarizarnos con el uso de plantillas. Esto junto con las descripciones de personas y el joruney map, hemos aparendido de manera real situaciones que se podrían dar sobre la página y si realmente la persona podría saber utilizarla.
