@@ -3,7 +3,7 @@
 
 - Desk research: Análisis Competencia
 
-  Se adjunta el resultado del análisis competitivo en formato pdf y png de las empresas de Udemy, Artesanía Álvarez y Cui.
+  Se adjunta el resultado del análisis competitivo en formato pdf y png.
 
   Formato PNG:
 
