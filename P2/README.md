@@ -13,6 +13,10 @@ El mapa de empatía de nuestro proyecto consiste en el caso de estudio de la rea
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+La propuesta de valor realizada en scope canvas es la siguiente:
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/scope-canvas.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/scope-canvas.png)
+
 
 ### TASK ANALYSIS
 
