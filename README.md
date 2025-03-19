@@ -37,14 +37,9 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
------
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+----- 
 
 En esta práctica se va realizar un análisis de la usabilidad de aplicaciones web basadas en artesanía y reciclaje en la provincia de Granada. De estas aplicaciones, se ha seleccionado para su estudio
 la página web "Kerarqueo". Hemos seleccionado esta plataforma porque pensamos que tiene bastantes puntos débiles que se podrían mejorar.
@@ -96,8 +91,6 @@ Finalmente, el perfil de los usuarios que se tendrán en cuenta en este análisi
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-
 La aplicación web elegida para su estudio ha sido "Kerarqueo" (como se ha indicado previamente), debido a que hemos detectado defectos y características que pueden emporar la experiencia de usuario al visitar
 dicha página.
 
@@ -121,8 +114,6 @@ Consideramos que finalmente el mejor competidor sería "Cuit" por ser un competi
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
 Loretta es una chica francesa que trabaja como diseñadora de interior en Francia. Tiene su propia empresa y le encanta viajar por todo el mundo, aprendiendo nuevas culturas y arte que pueda incluir como posibles diseños para sus proyectos de interiorismo. Viaja a Granada y se queda maravillada con su arte, por lo que decide comprar artículos artesanos y busca una tienda que pueda ofrecérselos.
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/loretta.png)
@@ -134,8 +125,6 @@ Ted, consultor empresarial que viaja frecuentemente, disfruta de eventos privado
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 Loretta va a comprar un producto artesano y busca una tienda online donde pueda comprarlo. Se ha elegido esta experiencia porque Kerarqueo ofrece este tipo de servicio y sería un caso que podría ocurrir.
 
@@ -149,20 +138,11 @@ Ted asiste a una conferencia en Barcelona y, durante su tiempo libre, busca piez
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
-
-<br>
-
 - Enlace al documento PDF "Usability Review":
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/Usability-review.pdf](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/Usability-review.pdf)
 
-- Puntuación final obtenida del análisis:
-  
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/usability-review-puntuacion.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P1/img-result-p1/usability-review-puntuacion.png)
+- Valoración numérica obtenida del análisis: 56
 
 - Comentario sobre la valoración obtenida:
 
