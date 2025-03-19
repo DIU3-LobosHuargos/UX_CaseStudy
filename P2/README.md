@@ -5,6 +5,10 @@
 * Mapa de empatía
 * Point of View 
 
+El mapa de empatía de nuestro proyecto consiste en el caso de estudio de la realización de cursos de formación y talleres basados en artesanía. El resultado sería el siguiente:
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/emp-amp.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/emp-amp.png)
+
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
