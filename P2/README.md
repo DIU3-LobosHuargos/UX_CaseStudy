@@ -26,6 +26,21 @@ La propuesta de valor realizada en scope canvas es la siguiente:
 ![Método UX](img/task-analysis-1.png) 
 ![Método UX](img/task-analysis-2.png) 
 
+| User Groups/Task | Usuario sube obras | Usuario valora obras | Usuario realiza cursos |
+|:----------------:|:------------------:|:--------------------:|:----------------------:|
+| Iniciar sesión   | Alta               |                      | Alta                   |
+| Cerrar sesión    | Alta               |                      | Alta                   |
+| Registrarse      |                    | Media                |                        |
+| Borrar cuenta    | Baja               |                      |                        |
+| Buscar cursos    | Alta               | Media                | Alta                   |
+| Apuntarse a cursos | Alta             | Media                | Alta                   |
+| Ver valoraciones | Media              | Alta                 | Media                  |
+| Ver comentarios |                     | Alta                 | Alta                   | 
+| Poner valoración |                    | Alta                 | Media                  |
+| Poner comentario |                    | Alta                 | Media                  |
+| Editar perfil | Alta                  |                      | Alta                   |
+| Subir obras | Alta                    |                      | Media                  |       
+
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
