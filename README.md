@@ -197,10 +197,12 @@ Nuestra prpuesta de valor realizada con scope canvas es la siguiente:
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+
+![Método UX](img/task-analysis-1.png) 
+![Método UX](img/task-analysis-2.png) 
 
 El task anylisis relacionado con nuestra propuesta de valor sería el siguiente:
 
@@ -224,7 +226,7 @@ El resultado obentido es el siguiente
 
 - Iniciar sesión
 
-- Aputnarse a un curso
+- Apuntarse a un curso
 
 - Subir una obra
 
@@ -240,6 +242,30 @@ El resultado obentido es el siguiente
 Término | Significado     
 | ------------- | -------
   Login  | acceder a plataforma
+
+![Método UX](img/Sitemap.png)
+
+| Término                        | Significado                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| Inicio                        | Página principal con acceso a las secciones más importantes del sitio.       |
+| Cursos                        | Página donde se puede buscar y visualizar el listado de cursos disponibles.  |
+| Buscar (Cursos)               | Funcionalidad para buscar cursos aplicando distintos filtros.                |
+| Listado cursos                | Sección que muestra todos los cursos disponibles en la plataforma.           |
+| Cesta                         | Página donde se visualizan los cursos seleccionados para comprar o inscribirse. |
+| Sobre nosotros                | Página informativa acerca de la organización o plataforma.                   |
+| Preguntas frecuentes          | Sección de "Sobre nosotros" con respuestas a las dudas más comunes.          |
+| Listado cursos (informativo) | Sección de "Sobre nosotros" que también muestra los cursos (visión general). |
+| Contacto                      | Información de contacto como email, teléfono, redes sociales, etc.           |
+| Ubicación                     | Muestra la dirección y localización geográfica de la organización.           |
+| Cuenta                        | Página desde donde se puede iniciar sesión o registrarse.                    |
+| Iniciar sesión                | Página para acceder con una cuenta ya existente.                             |
+| Registrarse                   | Página para crear una nueva cuenta en la plataforma.                         |
+| Mis comentarios y valoraciones| Página con todos los comentarios y valoraciones realizados por el usuario.   |
+| Mis cursos                    | Página que muestra los cursos en los que el usuario está inscrito.           |
+| Perfil                        | Página que muestra los datos del usuario registrado.                         |
+| Modifica datos                | Página para editar o actualizar los datos del perfil del usuario.            |
+| Cerrar sesión                 | Opción para salir de la cuenta y cerrar la sesión activa.                    |
+
 
 
 ### 2.d Wireframes
