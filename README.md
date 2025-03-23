@@ -251,10 +251,9 @@ Término | Significado
 | Cursos                        | Página donde se puede buscar y visualizar el listado de cursos disponibles.  |
 | Buscar (Cursos)               | Funcionalidad para buscar cursos aplicando distintos filtros.                |
 | Listado cursos                | Sección que muestra todos los cursos disponibles en la plataforma.           |
-| Cesta                         | Página donde se visualizan los cursos seleccionados para comprar o inscribirse. |
+| Apuntarse a un curso          | Página donde se visualizan los cursos para inscribirse. |
 | Sobre nosotros                | Página informativa acerca de la organización o plataforma.                   |
 | Preguntas frecuentes          | Sección de "Sobre nosotros" con respuestas a las dudas más comunes.          |
-| Listado cursos (informativo) | Sección de "Sobre nosotros" que también muestra los cursos (visión general). |
 | Contacto                      | Información de contacto como email, teléfono, redes sociales, etc.           |
 | Ubicación                     | Muestra la dirección y localización geográfica de la organización.           |
 | Cuenta                        | Página desde donde se puede iniciar sesión o registrarse.                    |
