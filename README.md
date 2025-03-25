@@ -179,7 +179,7 @@ Consiguiendo mejorar los aspectos tenidos en cuenta anteriormente, se puede obte
   
 Hemos realizado un mapa de empatía basado en el caso de estudio de la realización de cursos de formación y talleres de artesanía. El resultado ha sido el siguiente:
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/emp-amp.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/emp-amp.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/emp-amp.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/emp-amp.png)
   
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
@@ -193,7 +193,7 @@ La propuesta de valor que hemos planteado se basa en una plataforma que realiza 
 
 Nuestra prpuesta de valor realizada con scope canvas es la siguiente:
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/scope-canvas.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/scope-canvas.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/scope-canvas.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/scope-canvas.png)
 
 
 ### 2.b User Flow (task) analysis 
@@ -234,7 +234,7 @@ Término | Significado
 | ------------- | -------
   Login  | acceder a plataforma
 
-![Método UX](img/Sitemap.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/sitemap-p2.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/sitemap-p2.png)
 
 | Término                        | Significado                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
