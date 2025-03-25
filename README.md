@@ -201,9 +201,6 @@ Nuestra prpuesta de valor realizada con scope canvas es la siguiente:
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
-![Método UX](img/task-analysis-1.png) 
-![Método UX](img/task-analysis-2.png) 
-
 El task anylisis relacionado con nuestra propuesta de valor sería el siguiente:
 
 | User Groups/Task | Usuario sube obras | Usuario valora obras | Usuario realiza cursos |
@@ -221,16 +218,10 @@ El task anylisis relacionado con nuestra propuesta de valor sería el siguiente:
 | Editar perfil | Alta                  |                      | Alta                   |
 | Subir obras | Alta                    |                      | Media                  |       
 
-El task flow que hemos realiazdo ha sido de cuatro tareas: iniciar sesión, apuntarse a un curso, subir una obra y valorar una obra.
-El resultado obentido es el siguiente
+El task flow que hemos realiazdo ha sido de las tareas iniciar sesión y apuntarse a un curso. Los resultados obtenidos han sido los siguientes:
 
-- Iniciar sesión
-
-- Apuntarse a un curso
-
-- Subir una obra
-
-- Valorar una obra
+![Método UX](img/task-analysis-1.png) 
+![Método UX](img/task-analysis-2.png) 
 
 
 ### 2.c IA: Sitemap + Labelling 
