@@ -201,14 +201,14 @@ Nuestra prpuesta de valor realizada con scope canvas es la siguiente:
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
-El task anylisis relacionado con nuestra propuesta de valor sería el siguiente:
+El task analysis relacionado con nuestra propuesta de valor sería el siguiente:
 
 | User Groups/Task | Usuario sube obras | Usuario valora obras | Usuario realiza cursos |
 |:----------------:|:------------------:|:--------------------:|:----------------------:|
 | Iniciar sesión   | Alta               |                      | Alta                   |
 | Cerrar sesión    | Alta               |                      | Alta                   |
-| Registrarse      |                    | Media                |                        |
-| Borrar cuenta    | Baja               |                      |                        |
+| Registrarse      | Baja               | Media                | Baja                   |
+| Borrar cuenta    | Baja               |                      | Baja                   |
 | Buscar cursos    | Alta               | Media                | Alta                   |
 | Apuntarse a cursos | Alta             | Media                | Alta                   |
 | Ver valoraciones | Media              | Alta                 | Media                  |
