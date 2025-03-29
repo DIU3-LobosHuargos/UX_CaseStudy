@@ -179,7 +179,7 @@ Consiguiendo mejorar los aspectos tenidos en cuenta anteriormente, se puede obte
   
 Hemos realizado un mapa de empatía basado en el caso de estudio de la realización de cursos de formación y talleres de artesanía. El resultado ha sido el siguiente:
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/emp-amp.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/emp-amp.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/emp-amp.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/emp-amp.png)
   
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
@@ -193,7 +193,7 @@ La propuesta de valor que hemos planteado se basa en una plataforma que realiza 
 
 Nuestra prpuesta de valor realizada con scope canvas es la siguiente:
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/scope-canvas.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/scope-canvas.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/scope-canvas.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/scope-canvas.png)
 
 
 ### 2.b User Flow (task) analysis 
@@ -201,17 +201,14 @@ Nuestra prpuesta de valor realizada con scope canvas es la siguiente:
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
-![Método UX](img/task-analysis-1.png) 
-![Método UX](img/task-analysis-2.png) 
-
-El task anylisis relacionado con nuestra propuesta de valor sería el siguiente:
+El task analysis relacionado con nuestra propuesta de valor sería el siguiente:
 
 | User Groups/Task | Usuario sube obras | Usuario valora obras | Usuario realiza cursos |
 |:----------------:|:------------------:|:--------------------:|:----------------------:|
 | Iniciar sesión   | Alta               |                      | Alta                   |
 | Cerrar sesión    | Alta               |                      | Alta                   |
-| Registrarse      |                    | Media                |                        |
-| Borrar cuenta    | Baja               |                      |                        |
+| Registrarse      | Baja               | Media                | Baja                   |
+| Borrar cuenta    | Baja               |                      | Baja                   |
 | Buscar cursos    | Alta               | Media                | Alta                   |
 | Apuntarse a cursos | Alta             | Media                | Alta                   |
 | Ver valoraciones | Media              | Alta                 | Media                  |
@@ -221,16 +218,10 @@ El task anylisis relacionado con nuestra propuesta de valor sería el siguiente:
 | Editar perfil | Alta                  |                      | Alta                   |
 | Subir obras | Alta                    |                      | Media                  |       
 
-El task flow que hemos realiazdo ha sido de cuatro tareas: iniciar sesión, apuntarse a un curso, subir una obra y valorar una obra.
-El resultado obentido es el siguiente
+El task flow que hemos realiazdo ha sido de las tareas iniciar sesión y apuntarse a un curso. Los resultados obtenidos han sido los siguientes:
 
-- Iniciar sesión
-
-- Apuntarse a un curso
-
-- Subir una obra
-
-- Valorar una obra
+![Método UX](img/task-analysis-1.png) 
+![Método UX](img/task-analysis-2.png) 
 
 
 ### 2.c IA: Sitemap + Labelling 
@@ -243,7 +234,7 @@ Término | Significado
 | ------------- | -------
   Login  | acceder a plataforma
 
-![Método UX](img/Sitemap.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/sitemap-p2.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/sitemap-p2.png)
 
 | Término                        | Significado                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|

@@ -7,7 +7,7 @@
 
 El mapa de empatía de nuestro proyecto consiste en el caso de estudio de la realización de cursos de formación y talleres basados en artesanía. El resultado sería el siguiente:
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/emp-amp.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/emp-amp.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/emp-amp.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/emp-amp.png)
 
 
 ### PROPUESTA DE VALOR
@@ -15,7 +15,7 @@ El mapa de empatía de nuestro proyecto consiste en el caso de estudio de la rea
 
 La propuesta de valor realizada en scope canvas es la siguiente:
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/scope-canvas.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/scope-canvas.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/scope-canvas.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/scope-canvas.png)
 
 
 ### TASK ANALYSIS
@@ -46,7 +46,7 @@ La propuesta de valor realizada en scope canvas es la siguiente:
 * Sitemap 
 * Labelling 
 
-![Método UX](img/Sitemap.png) 
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/sitemap-p2.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/sitemap-p2.png)
 
 | Término                        | Significado                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
