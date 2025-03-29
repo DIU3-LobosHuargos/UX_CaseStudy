@@ -70,6 +70,9 @@ La propuesta de valor realizada en scope canvas es la siguiente:
 
 ### Prototipo Lo-FI Wireframe 
 
+Pagina principal o landing page
+
+![Método UX](img/landing-page-wireframes.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)

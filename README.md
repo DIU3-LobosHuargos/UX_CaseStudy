@@ -273,6 +273,10 @@ Término | Significado
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
+Pagina principal o landing page
+
+![Método UX](img/landing-page-wireframes.png)
+
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
