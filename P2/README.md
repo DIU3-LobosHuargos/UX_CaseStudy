@@ -74,6 +74,23 @@ Pagina principal o landing page
 
 ![Método UX](img/landing-page-wireframes.png)
 
+Página de Inicio de sesión
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/login.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/login.png)
+
+Página de acceso a curso para ver la información e inscribirse
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/info-curso.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/info-curso.png)
+
+Página de subida de una obra
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/subir-obra.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/subir-obra.png)
+
+Página para el perfil del usuario
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/perfil.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/perfil.png)
+
+
 ### Conclusiones  
 (incluye valoración de esta etapa)
 
