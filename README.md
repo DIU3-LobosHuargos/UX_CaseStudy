@@ -13,7 +13,9 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Describa la idea de su producto en la práctica 2
+
+Mejora de la aplicación de Kerarqueo apostando por la realización de cursos por parte de los usuarios, donde puedan subir las obras que realicen a partir de esos cursos y también puedan participar dando valoraciones y comentarios a obras realizadas por otros usuarios, creando una comunidad rica tanto a nivel cultural como social. 
 
 Logotipo: 
 
@@ -267,6 +269,22 @@ Término | Significado
 Pagina principal o landing page
 
 ![Método UX](img/landing-page-wireframes.png)
+
+Página de inicio de sesión
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/login.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/login.png)
+
+Página de acceso a curso para ver la información e inscribirse
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/info-curso.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/info-curso.png)
+
+Página de subida de una obra
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/subir-obra.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/subir-obra.png)
+
+Página para el perfil del usuario
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/perfil.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/perfil.png)
 
 <br>
 
