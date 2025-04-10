@@ -266,9 +266,17 @@ Término | Significado
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
-Pagina principal o landing page
+Pagina principal responsive para movil
 
 ![Método UX](img/landing-page-wireframes.png)
+
+Pagina principal responsive para tablet
+
+![Método UX](img/landing-page-wireframes-tablet.png)
+
+Pagina principal responsive para Escritorio
+
+![Método UX](img/landing-page-wireframes-desktop.png)
 
 Página de inicio de sesión
 

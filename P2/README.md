@@ -70,9 +70,17 @@ La propuesta de valor realizada en scope canvas es la siguiente:
 
 ### Prototipo Lo-FI Wireframe 
 
-Pagina principal o landing page
+Pagina principal responsive para movil
 
 ![Método UX](img/landing-page-wireframes.png)
+
+Pagina principal responsive para tablet
+
+![Método UX](img/landing-page-wireframes-tablet.png)
+
+Pagina principal responsive para Escritorio
+
+![Método UX](img/landing-page-wireframes-desktop.png)
 
 Página de Inicio de sesión
 
