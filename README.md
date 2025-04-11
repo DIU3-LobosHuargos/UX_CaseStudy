@@ -171,9 +171,6 @@ Consiguiendo mejorar los aspectos tenidos en cuenta anteriormente, se puede obte
 Hemos realizado un mapa de empatía basado en el caso de estudio de la realización de cursos de formación y talleres de artesanía. El resultado ha sido el siguiente:
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/emp-amp.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/emp-amp.png)
-  
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 La propuesta de valor que hemos planteado se basa en una plataforma que realiza cursos de formación de artesanía, donde los usuarios se puedan registrar en la página y realizar los cursos de formación que se ofrecen. Además, podrán subir las obras que hayan realizado como resultado de esos cursos y recibir comentarios y valoraciones de otros usuarios de la plataforma. Los usuarios podrán buscar las obras a través de distintos tipos de filtros (como las obras mejores valoradas), y ver quiénes han sido los que la han realizado, con el fin de ver los resultados que podrían alcanzar al realizar dichos cursos. 
 
