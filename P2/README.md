@@ -100,8 +100,5 @@ Página para el perfil del usuario
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+En esta práctica hemos empezado a dar forma a lo que va a ser nuestra propuesta de valor y además, hemos empezado a idear la futura aplicación que vamos a montar. El imaginar como vamos a distribuir la interfaz y qué apariencia tendrá la aplicación, a través de acciones como el sitemap o los wireframes, ha sido un proceso divertido a la vez que entretenido. También nos ha servido para ir familiarizándonos con la distribución de componentes y la elaboración de frames con sus jerarquías en Figma.
