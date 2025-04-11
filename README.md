@@ -9,11 +9,9 @@ Actualizado: 26/02/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Crusos de artesanía - Kerarqueo
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2
 
 Mejora de la aplicación de Kerarqueo apostando por la realización de cursos por parte de los usuarios, donde puedan subir las obras que realicen a partir de esos cursos y también puedan participar dando valoraciones y comentarios a obras realizadas por otros usuarios, creando una comunidad rica tanto a nivel cultural como social. 
 
@@ -166,18 +164,9 @@ Consiguiendo mejorar los aspectos tenidos en cuenta anteriormente, se puede obte
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   
 Hemos realizado un mapa de empatía basado en el caso de estudio de la realización de cursos de formación y talleres de artesanía. El resultado ha sido el siguiente:
 
@@ -193,15 +182,13 @@ La propuesta de valor que hemos planteado se basa en una plataforma que realiza 
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-Nuestra prpuesta de valor realizada con scope canvas es la siguiente:
+Nuestra propuesta de valor realizada con scope canvas es la siguiente:
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/scope-canvas.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/scope-canvas.png)
 
 
 ### 2.b User Flow (task) analysis 
 -----
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 El task analysis relacionado con nuestra propuesta de valor sería el siguiente:
 
@@ -230,11 +217,7 @@ El task flow que hemos realiazdo ha sido de las tareas iniciar sesión y apuntar
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+El sitemap de nuestra página tendría la siguiente distribución
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/sitemap-p2.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/sitemap-p2.png)
 
@@ -264,7 +247,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Los wireframes elaborados con figma son los siguientes: 
 
 Pagina principal responsive para movil
 
