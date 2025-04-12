@@ -244,7 +244,11 @@ El sitemap de nuestra página tendría la siguiente distribución
 ![Método UX](img/Wireframes.png) 
 -----
 
-Los wireframes elaborados con figma son los siguientes: 
+El prototipo realizado a papel es el siguiente:
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/prototipos.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/prototipos.png)
+
+Los wireframes elaborados en base a ese prototipo con Figma son los siguientes: 
 
 Pagina principal responsive para movil
 
