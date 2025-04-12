@@ -70,6 +70,12 @@ La propuesta de valor realizada en scope canvas es la siguiente:
 
 ### Prototipo Lo-FI Wireframe 
 
+El prototipo inicial que iniciamos a papel es el siguiente:
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/prototipos.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/prototipos.png)
+
+A continuación se muestran los wireframes en base a ese prototipo en Figma:
+
 Pagina principal responsive para movil
 
 ![Método UX](img/landing-page-wireframes.png)
