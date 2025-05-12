@@ -356,7 +356,7 @@ En cuanto a la parte del diseño (guideline), se muestran las siguientes partes 
 
 El enlace a nuestro MMockup es el siguiente:
 
-INSERTAR ENLACE
+[ENLACE DEL MOCKUP](https://www.figma.com/proto/nOM1rESZzNkKy79iI33LlU/Kerarqueo-V3?node-id=118-392&t=5QPFJ4nQDb4BmLNn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
 
 
 

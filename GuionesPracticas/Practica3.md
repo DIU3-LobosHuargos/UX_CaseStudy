@@ -94,6 +94,9 @@ Utilizar patrones de diseño y guidelines de Material UIDesign (Figma)  [https:
 
 Lista de componentes en Material 3: [https://m3.material.io/components](https://m3.material.io/components)
 
+El enlace a nuestro MMockup es el siguiente:
+
+[ENLACE DEL MOCKUP](https://www.figma.com/proto/nOM1rESZzNkKy79iI33LlU/Kerarqueo-V3?node-id=118-392&t=5QPFJ4nQDb4BmLNn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
 
 <br>
 
