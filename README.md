@@ -318,9 +318,9 @@ Los colores utilizados en la landing page, tipografía e imágenes serán utiliz
 ![Método UX](img/guidelines.png) 
 ----
 
-El diseño de nuestra aplicación se centra en la eficiencia y búsqueda rápida de lo que se desea hacer, permitiendo tener en cualquier momento acceso a todas las páginas de la aplicación (menú inferior), y mostrando la información de forma clara, consiguiendo que le usuario no se pierda en la página y pueda acceder rápidamente a cualquier opción. En cuanto a la paleta de colores, se han elegido colores que muestran paz y tranquilidad a la vez que simbolizan la naturaleza, ya que estas características representan la artesanía y que se puede sentir cuando se está realizando esta actividad. 
+El diseño de nuestra aplicación se centra en la eficiencia y navegación rápida, permitiendo tener en cualquier momento acceso a todas las páginas de la aplicación (menú inferior), mostrando la información de forma clara, y consiguiendo que el usuario no se pierda en la página y pueda acceder rápidamente a cualquier opción. En cuanto a la paleta de colores, se han elegido colores que muestran paz y tranquilidad a la vez que simbolizan la naturaleza.
 
-Algunos de los patrones utilizados y para qué sirven son los siguientes:
+Algunos de los componentes y patrones utilizados son los siguientes:
 
 - Página de inicio: página principal que vería el usuario al entrar en la aplicación. Esta página corresponde al landing page.
 
@@ -344,7 +344,9 @@ Algunos de los patrones utilizados y para qué sirven son los siguientes:
 
 - Cursos subscrito: se muestra a través de cards todos los cursos en los que está subscrito el usuario. Se permite desubscribirse del curso en caso de pulsar el botón que contiene cada card.
 
-- Subir obra: opción que permite al usuario poder subir una obra. Se ha dejado un campo para indicar la zona donde se adjuntaría la obra, otra para el título y otra para la descripción. 
+- Subir obra: opción que permite al usuario poder subir una obra. Se ha dejado un campo para indicar la zona donde se adjuntaría la obra, otra para el título y otra para la descripción.
+
+- Formulario, para la opción del perfil del usuario.
 
 Algunos de los componentes mencionados tienen la siguiente forma:
 
