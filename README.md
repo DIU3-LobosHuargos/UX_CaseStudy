@@ -244,7 +244,11 @@ El sitemap de nuestra página tendría la siguiente distribución
 ![Método UX](img/Wireframes.png) 
 -----
 
-Los wireframes elaborados con figma son los siguientes: 
+El prototipo realizado a papel es el siguiente:
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/prototipos.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P2/img/prototipos.png)
+
+Los wireframes elaborados en base a ese prototipo con Figma son los siguientes: 
 
 Pagina principal responsive para movil
 
@@ -278,23 +282,32 @@ Página para el perfil del usuario
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Para la realización del moodboard se ha utilizado una plantilla de Figma, y ésta incluye:
+
+- El nombre de nuestro proyecto ("Arte hecho a mano"), junto con la propuesta de valor.
+- Logotipo con distintos colores.
+- Paleta de colores que se va a utilizar en la aplicación.
+- La tipografía.
+- Imágenes que contendrá la apliación.
+
+El resultado obtenido es el siguiente:
+
+INSERTAR IMG DE MOODBOARD
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+El Landing Page de nuestra aplicación es la siguiente:
+
+INSERTAR IMG LANDING PAGE
+
+Esta landing page se va a reutilizar en el Mockup donde se desarrollará la aplicación al completo. Además, se ha construido teniendo en cuenta los elementos definidos en el moodboard.
 
 
 ### 3.c Guidelines
@@ -302,14 +315,49 @@ Página para el perfil del usuario
 ----
 
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+
+El diseño de nuestra aplicación se centra en la eficiencia y búsqueda rápida de lo que se desea hacer, permitiendo tener en cualquier momento acceso a todas las páginas de la aplicación (menú inferior), y mostrando la información de forma clara, consiguiendo que le usuario no se pierda en la página y pueda acceder rápidamente a cualquier opción. En cuanto a la paleta de colores, se han elegido colores que muestran paz y tranquilidad a la vez que simbolizan la naturaleza, ya que estas características representan la artesanía y que se puede sentir cuando se está realizando esta actividad. 
+
+Algunos de los patrones utilizados y para qué sirven son los siguientes:
+
+- Página de inicio: página principal que vería el usuario al entrar en la aplicación. Esta página corresponde al landing page.
+
+- Search: barra de búsqueda de cursos.
+
+- Filtros: opciones que permiten filtrar los cursos en base a distintas categorías.
+
+- Carrousel de cursos populares, mostrados a través de cards.
+
+- Curso de interés o de relevancia, mostrado a través de card.
+
+- Cards para representar la información de cada curso cuando se selecciona, con imagen del curso y una descripción, además del botón que permite la subscripción al curso.
+
+- Menú de navegación inferior, que permite rápidamente vovler al landing page, mostrar las notificaciones, mostrar todos los cursos, subir una obra y mostrar los cursos subscritos. Es te menú de navegación está siempre disponible para permitir una navegación rápida e intuitiva entre las distintas páginas.
+
+- Menú lateral: al pulsar el botón "hamburguesa" de la paǵina principal, se abrirá un menú desplegable en el lateral de la pantalla que muestra enlaces a las distintas páginas de la aplicación.
+
+- Perfil: esta página cuenta con un formulario que contiene la información y datos relacionados con el usuario, permitiendo modificar sus datos en caso necesario.
+
+- Listado de cursos: se muestra a través de cards todos los cursos que hay disponibles. Cuenta con un botón cada card (curso) para subscribirse/apuntrase.
+
+- Cursos subscrito: se muestra a través de cards todos los cursos en los que está subscrito el usuario. Se permite desubscribirse del curso en caso de pulsar el botón que contiene cada card.
+
+- Subir obra: opción que permite al usuario poder subir una obra. Se ha dejado un campo para indicar la zona donde se adjuntaría la obra, otra para el título y otra para la descripción. 
+
+
+En cuanto a la parte del diseño (guideline), se muestran las siguientes partes y componentes de la aplicación:
+ INSERTAR CAPTURAS CON PARTES DE LA APLICACIÓN
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+El enlace a nuestro MMockup es el siguiente:
+
+[ENLACE DEL MOCKUP](https://www.figma.com/proto/nOM1rESZzNkKy79iI33LlU/Kerarqueo-V3?node-id=118-392&t=5QPFJ4nQDb4BmLNn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
+
 
 
 ### 3.e ¿My UX-Case Study?
