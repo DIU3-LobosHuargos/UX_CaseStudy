@@ -17,7 +17,7 @@ Mejora de la aplicación de Kerarqueo apostando por la realización de cursos po
 
 Logotipo: 
 
-<img src="[https://github.com/usuario/repositorio/raw/main/imagen.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/logo1.png)" alt="Logotipo" width="200"/>
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/logo1.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/logo1.png)
 
 Mockup:
 
