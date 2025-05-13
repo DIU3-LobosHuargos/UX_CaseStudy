@@ -17,7 +17,11 @@ Mejora de la aplicación de Kerarqueo apostando por la realización de cursos po
 
 Logotipo: 
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/logo1.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/logo1.png)
+<img src="[https://github.com/usuario/repositorio/raw/main/imagen.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/logo1.png)" alt="Logotipo" width="200"/>
+
+Mockup:
+
+[Enlace a nuestro mockup](https://www.figma.com/proto/6oq9zXWCCuVqn0ctA2yxW8/Arte-hecho-a-mano?node-id=113-185&p=f&t=BbRdyvim1GiGZkwB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
 
 Miembros:
  * :bust_in_silhouette:  Juan Jose Barrera Linde    :octocat:     
