@@ -9,7 +9,7 @@ Actualizado: 26/02/2025
 
 Proyecto: 
 
-Crusos de artesanía - Kerarqueo
+Crusos de artesanía - Arte hecho a mano
 
 Descripción: 
 
