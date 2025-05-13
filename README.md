@@ -286,7 +286,7 @@ Página para el perfil del usuario
 ![Método UX](img/moodboard.png)
 -----
 
-Para la realización del moodboard se ha utilizado una plantilla de Figma, y ésta incluye:
+Para la realización del moodboard se ha utilizado una plantilla de Figma, y esta incluye:
 
 - El nombre de nuestro proyecto ("Arte hecho a mano"), junto con la propuesta de valor.
 - Logotipo con distintos colores.
@@ -296,7 +296,7 @@ Para la realización del moodboard se ha utilizado una plantilla de Figma, y és
 
 El resultado obtenido es el siguiente:
 
-INSERTAR IMG DE MOODBOARD
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/moodboard.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/moodboard.png)
 
 
 ### 3.b Landing Page
@@ -305,17 +305,14 @@ INSERTAR IMG DE MOODBOARD
 
 El Landing Page de nuestra aplicación es la siguiente:
 
-INSERTAR IMG LANDING PAGE
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/landing-page.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/landing-page.png)
 
-Esta landing page se va a reutilizar en el Mockup donde se desarrollará la aplicación al completo. Además, se ha construido teniendo en cuenta los elementos definidos en el moodboard.
+Los colores utilizados en la landing page, tipografía e imágenes serán utilizadas en el diseño del mockup.
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
 El diseño de nuestra aplicación se centra en la eficiencia y búsqueda rápida de lo que se desea hacer, permitiendo tener en cualquier momento acceso a todas las páginas de la aplicación (menú inferior), y mostrando la información de forma clara, consiguiendo que le usuario no se pierda en la página y pueda acceder rápidamente a cualquier opción. En cuanto a la paleta de colores, se han elegido colores que muestran paz y tranquilidad a la vez que simbolizan la naturaleza, ya que estas características representan la artesanía y que se puede sentir cuando se está realizando esta actividad. 
 
@@ -345,9 +342,23 @@ Algunos de los patrones utilizados y para qué sirven son los siguientes:
 
 - Subir obra: opción que permite al usuario poder subir una obra. Se ha dejado un campo para indicar la zona donde se adjuntaría la obra, otra para el título y otra para la descripción. 
 
+Algunos de los componentes mencionados tienen la siguiente forma:
 
-En cuanto a la parte del diseño (guideline), se muestran las siguientes partes y componentes de la aplicación:
- INSERTAR CAPTURAS CON PARTES DE LA APLICACIÓN
+Cards con carruosel
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/cards.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/cards.png)
+
+Menú lateral desplegable
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/menu-lat.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/menu-lat.png)
+
+Formulario
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/formulario.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/formulario.png)
+
+El diseño final de nuestra aplicación en Figma es el siguiente:
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/dise%C3%B1o-app.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/dise%C3%B1o-app.png)
 
 
 ### 3.d Mockup
