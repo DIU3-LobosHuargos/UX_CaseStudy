@@ -36,7 +36,7 @@ Los diseños finales son los siguientes:
 
 El enlace a nuestro diseño en Figma es el siguiente:
 
-![https://www.figma.com/proto/6oq9zXWCCuVqn0ctA2yxW8/Arte-hecho-a-mano?node-id=113-185&p=f&t=2Blirq6YMXvlGYse-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185](https://www.figma.com/proto/6oq9zXWCCuVqn0ctA2yxW8/Arte-hecho-a-mano?node-id=113-185&p=f&t=2Blirq6YMXvlGYse-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
+[Enlace a nuestro mockup](https://www.figma.com/proto/6oq9zXWCCuVqn0ctA2yxW8/Arte-hecho-a-mano?node-id=113-185&p=f&t=lj2I8lYf9mGIMqvy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
 
 ## Conclusiones
 
