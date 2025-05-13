@@ -17,7 +17,7 @@ Mejora de la aplicación de Kerarqueo apostando por la realización de cursos po
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/logo1.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/logo1.png)
 
 Miembros:
  * :bust_in_silhouette:  Juan Jose Barrera Linde    :octocat:     
@@ -367,8 +367,7 @@ El diseño final de nuestra aplicación en Figma es el siguiente:
 
 El enlace a nuestro MMockup es el siguiente:
 
-[ENLACE DEL MOCKUP](https://www.figma.com/proto/nOM1rESZzNkKy79iI33LlU/Kerarqueo-V3?node-id=118-392&t=5QPFJ4nQDb4BmLNn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
-
+[Enlace a nuestro mockup](https://www.figma.com/proto/6oq9zXWCCuVqn0ctA2yxW8/Arte-hecho-a-mano?node-id=113-185&p=f&t=lj2I8lYf9mGIMqvy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
 
 
 ### 3.e ¿My UX-Case Study?
