@@ -38,7 +38,4 @@ El enlace a nuestro diseño en Figma es el siguiente:
 
 [Enlace a nuestro mockup](https://www.figma.com/proto/6oq9zXWCCuVqn0ctA2yxW8/Arte-hecho-a-mano?node-id=113-185&p=f&t=lj2I8lYf9mGIMqvy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=113%3A185)
 
-## Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
