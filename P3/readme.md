@@ -24,6 +24,10 @@ Algunos de los componentes que hemos usado en nuestro diseño son los siguientes
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/menu-lat.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/menu-lat.png)
 
+  Formulario
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/formulario.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/formulario.png)
+
 Los diseños finales son los siguientes:
 
 ![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/dise%C3%B1o-app.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P3/img/dise%C3%B1o-app.png)
