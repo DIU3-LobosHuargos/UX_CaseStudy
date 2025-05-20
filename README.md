@@ -398,10 +398,10 @@ El enlace a nuestro MMockup es el siguiente:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| 0  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| 1  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| 2  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| 3  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
