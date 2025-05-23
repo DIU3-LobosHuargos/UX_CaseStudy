@@ -408,8 +408,24 @@ El enlace a nuestro MMockup es el siguiente:
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Las pruebas que se van a realizar para cada caso (A y B), han sido desarrolladas con Maze y son las siguientes:
 
+- Caso A:
+
+  - Reserva de un curso
+  - Iniciar sesión
+
+- Caso B:
+
+    - [Reserva de un curso](https://t.maze.co/389465910)
+    - [Iniciar sesión](https://t.maze.co/391117412)
+
+
+Las pruebas diseñadas se basan en la misma acción: reservar un curso e iniciar sesión. Al ser la misma acción pero sobre diferentes aplicaciones, va a ser más sencillo que el usuario que las está probando pueda realizar una mejor comparación entre ambas.
+
+También se va a realizar la prueba de "Eye tracking" para reservar un curso, y el cuestionario SUS.
+
+Los resultados serán comentados en los siguientes apartados.
 
 
 ### 4.c Cuestionario SUS
