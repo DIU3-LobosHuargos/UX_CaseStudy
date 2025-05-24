@@ -392,17 +392,23 @@ El enlace a nuestro MMockup es el siguiente:
 -----
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
+
+https://github.com/Maguitos/UX_CaseStudy
+
+Proyecto "Maguitos" es un modelo de cursos de cerámica enfocados a la ampliación de lore de un mundo de fantasía inspirado en la andalucía medieval. Se ofrecerían cursos de distinto tipo y para distintas edades, pero todos enfocados a la creación o decoración de piezas de cerámica. En ellos se generarían ideas para ir añadiendo al mundo de fantasía y todo esto quedaría registrado en una wiki que puede ser consultada y navegada. La wiki tendrá como página principal un mapa, mostrando localizaciones importantes y está dividida en varias secciones con entradas conectadas entre ellas.
+
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| Jonathan  | H / 26   | Auxiliar de enfermeria  | Baja       | Introvertido | Web.       | A 
+| Maria  | M / 18   | Estudiante  | Media       | Extrovertida       | Web        | A 
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
+Jonathan podría tener problemas ya no es una persona experimentada con las aplicaciones web, ya que tiene poca experiencia, solo ha usado aplicaciones para pedir comida a domicilio.
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
@@ -410,7 +416,21 @@ El enlace a nuestro MMockup es el siguiente:
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
+Se han desarrollado dos pruebas con la plataforma Maze, se han diseñado unas tareas donde el usuario tiene que completar una tarea con un objetivo navegando una vez que entras en la aplicación hasta el objetivo a cumplir
 
+Tarea 1: Desubscribirse de un curso.
+Contexto: Te has registrado en la aplicación y has iniciado sesión, has visualizado los cursos disponibles y has decidido subscribirte en algunos de estos, el objetivo es desubscribirte en un curso cualquiera y te salga una ventana diciendo que te has subscrito del curso correctamente.
+Enlace: https://t.maze.co/389433178
+Resultado: 
+
+Tarea 2: Subir una obra o curso.
+Contexto: Quiere subir una obra o curso a traves de la aplicación para mostrarla a los demas usuarios y puedan subscribirse.
+Enlace: https://t.maze.co/389438484
+Resultado:
+
+Tarea 3: Exploración libre.
+Contexto: El usuario tiene liberta en navegar por toda la aplicación y ver como interctua con estas, al final se podra obtener una opinión al respecto.
+Resultado:
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
@@ -421,6 +441,17 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
+Nosotros hemos optado por usar SUS Calculator:
+https://stuart-cunningham.github.io/sus/
+
+Resultados:
+Jonathan: 67.5 aceptable
+
+![Método UX](img/calculadora-sus-1.png) 
+
+Maria: 80 buena
+
+![Método UX](img/calculadora-sus-2.png) 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
