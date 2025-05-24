@@ -403,10 +403,10 @@ Proyecto "Maguitos" es un modelo de cursos de cerámica enfocados a la ampliaci�
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Jonathan  | H / 26   | Auxiliar de enfermeria  | Baja       | Introvertido | Web.       | A 
-| Maria  | M / 18   | Estudiante  | Media       | Extrovertida       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| 0  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| 1  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| 2  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| 3  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 Jonathan podría tener problemas ya no es una persona experimentada con las aplicaciones web, ya que tiene poca experiencia, solo ha usado aplicaciones para pedir comida a domicilio.
 
@@ -416,21 +416,7 @@ Jonathan podría tener problemas ya no es una persona experimentada con las apli
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
-Se han desarrollado dos pruebas con la plataforma Maze, se han diseñado unas tareas donde el usuario tiene que completar una tarea con un objetivo navegando una vez que entras en la aplicación hasta el objetivo a cumplir
 
-Tarea 1: Desubscribirse de un curso.
-Contexto: Te has registrado en la aplicación y has iniciado sesión, has visualizado los cursos disponibles y has decidido subscribirte en algunos de estos, el objetivo es desubscribirte en un curso cualquiera y te salga una ventana diciendo que te has subscrito del curso correctamente.
-Enlace: https://t.maze.co/389433178
-Resultado: 
-
-Tarea 2: Subir una obra o curso.
-Contexto: Quiere subir una obra o curso a traves de la aplicación para mostrarla a los demas usuarios y puedan subscribirse.
-Enlace: https://t.maze.co/389438484
-Resultado:
-
-Tarea 3: Exploración libre.
-Contexto: El usuario tiene liberta en navegar por toda la aplicación y ver como interctua con estas, al final se podra obtener una opinión al respecto.
-Resultado:
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
