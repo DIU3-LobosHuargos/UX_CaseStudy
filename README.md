@@ -391,17 +391,22 @@ El enlace a nuestro MMockup es el siguiente:
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+- Caso B:
 
+https://github.com/Maguitos/UX_CaseStudy
 
+Proyecto "Maguitos" es un modelo de cursos de cerámica enfocados a la ampliación de lore de un mundo de fantasía inspirado en la andalucía medieval. Se ofrecerían cursos de distinto tipo y para distintas edades, pero todos enfocados a la creación o decoración de piezas de cerámica. En ellos se generarían ideas para ir añadiendo al mundo de fantasía y todo esto quedaría registrado en una wiki que puede ser consultada y navegada. La wiki tendrá como página principal un mapa, mostrando localizaciones importantes y está dividida en varias secciones con entradas conectadas entre ellas.
+
+- Personas participantes en el estudio:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| 0  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| 1  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| 2  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| 3  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+
+Jonathan podría tener problemas ya no es una persona experimentada con las aplicaciones web, ya que tiene poca experiencia, solo ha usado aplicaciones para pedir comida a domicilio.
 
 
 ### 4.b Diseño de las pruebas 
@@ -410,6 +415,17 @@ El enlace a nuestro MMockup es el siguiente:
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
+Hemos diseñado una serie de pruebas desde Maze para el A/B Testing. Estas pruebas son las siguientes:
+
+- Caso A:
+
+
+- Caso B:
+
+    - [Reservar un curso](https://t.maze.co/389465910?guerilla=true)
+    - [Iniciar sesión](https://t.maze.co/391117412?guerilla=true)
+
+Otras pruebas que se han diseñado han sido el "Eye Tracking" y el cuestionario "SUS". Estas pruebas serán comentadas a continuación.
 
 
 ### 4.c Cuestionario SUS
@@ -421,6 +437,17 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
+Nosotros hemos optado por usar SUS Calculator:
+https://stuart-cunningham.github.io/sus/
+
+Resultados:
+Jonathan: 67.5 aceptable
+
+![Método UX](img/calculadora-sus-1.png) 
+
+Maria: 80 buena
+
+![Método UX](img/calculadora-sus-2.png) 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
@@ -434,11 +461,18 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
+Para esta prueba, hemos usado Gaze Recorder. Esta web permite poder analizar que está viendo el usuario en la pantalla a través de un mapa de calor. 
+El test va a comprobar qué zonas son las que más ve el usuario y si puede reservar un curso correctamente el navegar por la web. 
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+El enlace al test es el siguiente:
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+- [Reservar un curso](https://app.gazerecorder.com/Study/Test?StudyID=483956fe7f3e33f13ce9e81ee58f6e78&lang=es&RespondentID=null)
+
+Los resultados obtenidos son los siguientes:
+
+
+
+
 
 
 ### 4.f Usability Report de B
