@@ -403,8 +403,8 @@ Proyecto "Maguitos" es un modelo de cursos de cerámica enfocados a la ampliaci�
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | 0  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
 | 1  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| 2  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| 3  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| 2  | M / 55   | Trabajadora | Alta        | Emocional    | Móvil      | B 
+| 3  | H / 21   | Trabajador  | Alta       | Racional     | Móvil        | B 
 
 Jonathan podría tener problemas ya no es una persona experimentada con las aplicaciones web, ya que tiene poca experiencia, solo ha usado aplicaciones para pedir comida a domicilio.
 
@@ -455,6 +455,9 @@ Maria: 80 buena
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+>>>
+
+El usuario que ha realizado el test de Maze sobre el proyecto B ha tenido la sensación de que no era difícil de encontrar la opción de reservar un curso. 
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
