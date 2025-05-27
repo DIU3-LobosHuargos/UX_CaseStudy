@@ -461,17 +461,38 @@ Maria: 80 buena
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
+- Caso B
+
 Para esta prueba, hemos usado Gaze Recorder. Esta web permite poder analizar que está viendo el usuario en la pantalla a través de un mapa de calor. 
 El test va a comprobar qué zonas son las que más ve el usuario y si puede reservar un curso correctamente el navegar por la web. 
 
-El enlace al test es el siguiente:
+El enlace al test de Gaze Recorder es el siguiente:
 
 - [Reservar un curso](https://app.gazerecorder.com/Study/Test?StudyID=483956fe7f3e33f13ce9e81ee58f6e78&lang=es&RespondentID=null)
 
 Los resultados obtenidos son los siguientes:
 
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result1-et.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result1-et.png)
 
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result2-et.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result2-et.png)
 
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result3-et.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result3-et.png)
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result4-et.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result4-et.png)
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result5-et.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/result5-et.png)
+
+Se puede observar como el usuario está viendo más o menos las zonas adecuadas que le llevan a poder reservar un curso. 
+
+- Caso A
+
+Para el caso A hemos realizado un test en Gaze Recorder también en el que se va a comprobar si el usuario sabría en este caso como poder seubscribirse (borrarse) de un curso del que ya estaba subscrito
+
+Este es el enlace del test en Gaze Recorder: 
+
+ - [Desubscribirse de un curso](https://app.gazerecorder.com/Study/Test?StudyID=d89db1f5b70c274496073ffb7cd92b39&lang=en&RespondentID=null)
+
+Los resultados obtenidos han sido los siguientes:
 
 
 
