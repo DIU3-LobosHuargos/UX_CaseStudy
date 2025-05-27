@@ -403,7 +403,7 @@ Proyecto "Maguitos" es un modelo de cursos de cerámica enfocados a la ampliaci�
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | 0  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
 | 1  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| 2  | M / 55   | Trabajadora | Alta        | Emocional    | Móvil      | B 
+| 2  | M / 55   | Trabajadora | Baja        | Emocional    | Móvil      | B 
 | 3  | H / 21   | Trabajador  | Alta       | Racional     | Móvil        | B 
 
 Jonathan podría tener problemas ya no es una persona experimentada con las aplicaciones web, ya que tiene poca experiencia, solo ha usado aplicaciones para pedir comida a domicilio.
