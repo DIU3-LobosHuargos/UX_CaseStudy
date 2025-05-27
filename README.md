@@ -461,13 +461,18 @@ Maria: 80 buena
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
-Para esta prueba, hemos usado 
+Para esta prueba, hemos usado Gaze Recorder. Esta web permite poder analizar que está viendo el usuario en la pantalla a través de un mapa de calor. 
+El test va a comprobar qué zonas son las que más ve el usuario y si puede reservar un curso correctamente el navegar por la web. 
+
+El enlace al test es el siguiente:
+
+- [Reservar un curso](https://app.gazerecorder.com/Study/Test?StudyID=483956fe7f3e33f13ce9e81ee58f6e78&lang=es&RespondentID=null)
+
+Los resultados obtenidos son los siguientes:
 
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+
 
 
 ### 4.f Usability Report de B
