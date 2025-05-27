@@ -423,7 +423,8 @@ Hemos diseñado una serie de pruebas desde Maze para el A/B Testing. Estas prueb
 - Caso B:
 
     - [Reservar un curso](https://t.maze.co/389465910?guerilla=true)
-    - [Iniciar sesión](https://t.maze.co/391117412?guerilla=true)
+
+ Para el caso B, el test consiste en realizar una navegación por la página hasta poder encontrar la forma de realizar la reserva de un curso. Posteriormente se le realizan una serie de preguntas sobre la experiencia que ha tenido al usar la aplicación.
 
 Otras pruebas que se han diseñado han sido el "Eye Tracking" y el cuestionario "SUS". Estas pruebas serán comentadas a continuación.
 
@@ -494,6 +495,17 @@ Este es el enlace del test en Gaze Recorder:
 
 Los resultados obtenidos han sido los siguientes:
 
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/inicio-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/inicio-a-result.png)
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/cursos-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/cursos-a-result.png)
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/mis-cursos-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/mis-cursos-a-result.png)
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/curso-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/curso-a-result.png)
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/desubscrito-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/desubscrito-a-result.png)
+
+Como se puede observar, aproximadamente el usuario está observando los sitios indicados aunque es cierto que en la página de inicio es un poco complicado saber de primeras donde podría estar la opción que permite listar los cursos a los que se está subscrito.
 
 
 ### 4.f Usability Report de B
