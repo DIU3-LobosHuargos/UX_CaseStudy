@@ -391,15 +391,13 @@ El enlace a nuestro MMockup es el siguiente:
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
+- Caso B:
 
 https://github.com/Maguitos/UX_CaseStudy
 
 Proyecto "Maguitos" es un modelo de cursos de cerámica enfocados a la ampliación de lore de un mundo de fantasía inspirado en la andalucía medieval. Se ofrecerían cursos de distinto tipo y para distintas edades, pero todos enfocados a la creación o decoración de piezas de cerámica. En ellos se generarían ideas para ir añadiendo al mundo de fantasía y todo esto quedaría registrado en una wiki que puede ser consultada y navegada. La wiki tendrá como página principal un mapa, mostrando localizaciones importantes y está dividida en varias secciones con entradas conectadas entre ellas.
 
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
+- Personas participantes en el estudio:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -410,12 +408,24 @@ Proyecto "Maguitos" es un modelo de cursos de cerámica enfocados a la ampliaci�
 
 Jonathan podría tener problemas ya no es una persona experimentada con las aplicaciones web, ya que tiene poca experiencia, solo ha usado aplicaciones para pedir comida a domicilio.
 
+
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
+Hemos diseñado una serie de pruebas desde Maze para el A/B Testing. Estas pruebas son las siguientes:
+
+- Caso A:
+
+
+- Caso B:
+
+    - [Reservar un curso](https://t.maze.co/389465910?guerilla=true)
+    - [Iniciar sesión](https://t.maze.co/391117412?guerilla=true)
+
+Otras pruebas que se han diseñado han sido el "Eye Tracking" y el cuestionario "SUS". Estas pruebas serán comentadas a continuación.
 
 
 ### 4.c Cuestionario SUS
@@ -450,6 +460,8 @@ Maria: 80 buena
 ----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+
+Para esta prueba, hemos usado 
 
 
 ![experimento](img/experimentoET.png)  
