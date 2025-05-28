@@ -533,7 +533,7 @@ Como se puede observar, aproximadamente el usuario está observando los sitios i
 
 ### 28/05/2025
 
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/b-1.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/b-1.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img/b-1.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/img/b-1.png)
 
 [\[Enlace a GITHUB del proyecto\]](https://github.com/Maguitos/UX_CaseStudy)
 
