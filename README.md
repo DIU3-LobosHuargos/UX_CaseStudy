@@ -413,8 +413,6 @@ Jonathan podría tener problemas ya que no es una persona experimentada con las 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
 Hemos diseñado una serie de pruebas desde Maze para el A/B Testing. Estas pruebas son las siguientes:
 
 - Caso A:
@@ -436,11 +434,6 @@ Otras pruebas que se han diseñado han sido el "Eye Tracking" y el cuestionario 
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
 Nosotros hemos optado por usar SUS Calculator:
 https://stuart-cunningham.github.io/sus/
 
@@ -457,16 +450,11 @@ Maria: 80 buena
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
->>>
-
-El usuario que ha realizado el test de Maze sobre el proyecto B ha tenido la sensación de que no era difícil de encontrar la opción de reservar un curso. 
+El usuario que ha realizado el test de Maze sobre el proyecto B ha tenido la sensación de que no era difícil de encontrar la opción de reservar un curso. Las sensaciones del usuario que ha realiado el test de Maze parar el caso A ha tenido sensaciones similares. Los resultados se van a calcular al final a través del cuestionario SUS.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
 - Caso B
 
@@ -517,11 +505,6 @@ Como se puede observar, aproximadamente el usuario está observando los sitios i
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
 # Usability Report
 
