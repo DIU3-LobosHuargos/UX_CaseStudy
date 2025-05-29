@@ -450,7 +450,7 @@ Maria: 80 buena
 ![Método UX](img/ABtesting.png) 
 -----
 
-El usuario que ha realizado el test de Maze sobre el proyecto B ha tenido la sensación de que no era difícil de encontrar la opción de reservar un curso. Las sensaciones del usuario que ha realiado el test de Maze parar el caso A ha tenido sensaciones similares. Los resultados se van a calcular al final a través del cuestionario SUS.
+El usuario que ha realizado el test de Maze sobre el proyecto B ha tenido la sensación de que no era difícil de encontrar la opción de reservar un curso. Las sensaciones del usuario que ha realiado el test de Maze parar el caso A ha tenido sensaciones similares. 
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
