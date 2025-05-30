@@ -454,6 +454,8 @@ El usuario que ha realizado el test de Maze para el caso B ha concluido que la t
 
 El usuario que ha realizado el test de Maze para el caso A ha concluido que la navegación por la aplicación está muy lograda (buena experiencia de usuario); aunque ha tardado un poco de tiempo en encontrar donde estaría la zona donde están los cursos a los que estaríia subscrito (opción del menú inferior). Probando opciones lo ha acabado encontrando.
 
+Las evaluaciones de los resultados obtenidos por las pruebas A/B testing, vienen en el cuestionario SUS que hemos mostrado en el apartado anterior.
+
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
