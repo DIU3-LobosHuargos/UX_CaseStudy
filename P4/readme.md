@@ -29,9 +29,9 @@ Las pruebas realizadas con Maze han sido las siguientes:
 
 Hemos usado SUS Calculator:
 
-![Método UX](img/calculadora-sus-1.png) 
+![Método UX](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/calculadora-sus-1.png)
 
-![Método UX](img/calculadora-sus-2.png) 
+![Método UX](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/calculadora-sus-2.png) 
   
 - Tabla A/B Testing con resultados para A y B
 
@@ -133,11 +133,11 @@ Jonathan podría tener problemas ya que no es una persona experimentada con las 
 
 Jonathan: 67.5 aceptable
 
-![Método UX](img/calculadora-sus-1.png) 
+![Método UX](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/calculadora-sus-1.png)
 
 Maria: 80 buena
 
-![Método UX](img/calculadora-sus-2.png) 
+![Método UX](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/calculadora-sus-2.png) 
 
 
 (resultado de eyetracking)
