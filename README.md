@@ -450,7 +450,9 @@ Maria: 80 buena
 ![Método UX](img/ABtesting.png) 
 -----
 
-El usuario que ha realizado el test de Maze sobre el proyecto B ha tenido la sensación de que no era difícil de encontrar la opción de reservar un curso. Las sensaciones del usuario que ha realiado el test de Maze parar el caso A ha tenido sensaciones similares. 
+El usuario que ha realizado el test de Maze para el caso B ha concluido que la tarea de reservar un curso no es complicado; se puede encontrar con facilidad. Si es cierto que cuando llegaba a la última pantalla donde salía el mapa no entendía muy bien donde podría estar la opción de reservar el curso, intuía que las localizaciones eran las zonas donde estarían disponibls los cursos.
+
+El usuario que ha realizado el test de Maze para el caso A ha concluido que la navegación por la aplicación está muy lograda (buena experiencia de usuario); aunque ha tardado un poco de tiempo en encontrar donde estaría la zona donde están los cursos a los que estaríia subscrito (opción del menú inferior). Probando opciones lo ha acabado encontrando.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
