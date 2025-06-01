@@ -48,7 +48,7 @@ Los usuarios que han realizado el test de Maze para el caso B han concluido que 
 
 Los usuarios que han realizado el test de Maze para el caso A han concluido que la navegación por la aplicación está muy lograda (buena experiencia de usuario); aunque han tardado un poco de tiempo en encontrar donde estaría la zona en la que están los cursos a los que estaría subscrito (opción del menú inferior). Al final, a base de ir probando en opciones lo han acabado encontrando. Destacar que sus conclusiones en general han sido buenas en cuanto a la usabilidad del sistema ya que han conseguido realizar la tarea dada, además de ver otras opciones funcionales en la aplicación mientras navegaban por ella.
 
-Las evaluaciones de los resultados obtenidos por las pruebas A/B testing, vienen en el cuestionario SUS que hemos mostrado en el apartado anterior par algunos de estos usuarios que han realizado las pruebas.
+Las evaluaciones de los resultados obtenidos por las pruebas A/B testing, vienen en el cuestionario SUS que hemos mostrado en el apartado anterior.
 
 - Eye Tracking para B
 
