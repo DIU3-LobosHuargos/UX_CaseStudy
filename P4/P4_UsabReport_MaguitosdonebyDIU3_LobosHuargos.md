@@ -60,13 +60,10 @@ Jonathan podría tener problemas ya que no es una persona experimentada con las 
 
 (resultado de SUS)
 
-Jonathan: 67.5 aceptable
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/sus-b1.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/sus-b1.png)
 
-![Método UX](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/calculadora-sus-1.png)
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/sus-b2.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/sus-b2.png)
 
-Maria: 80 buena
-
-![Método UX](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/calculadora-sus-2.png) 
 
 (resultado de eyetracking)
 
@@ -93,27 +90,6 @@ Los resultados obtenidos son los siguientes:
 
 Se puede observar como el usuario está viendo más o menos las zonas adecuadas que le llevan a poder reservar un curso. 
 
-- Caso A
-
-Para el caso A hemos realizado un test en Gaze Recorder también en el que se va a comprobar si el usuario sabría en este caso como poder seubscribirse (borrarse) de un curso del que ya estaba subscrito.
-
-Este es el enlace del test en Gaze Recorder: 
-
- - [Desubscribirse de un curso](https://app.gazerecorder.com/Study/Test?StudyID=d89db1f5b70c274496073ffb7cd92b39&lang=en&RespondentID=null)
-
-Los resultados obtenidos han sido los siguientes:
-
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/inicio-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/inicio-a-result.png)
-
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/cursos-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/cursos-a-result.png)
-
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/mis-cursos-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/mis-cursos-a-result.png)
-
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/curso-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/curso-a-result.png)
-
-![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/desubscrito-a-result.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/desubscrito-a-result.png)
-
-Como se puede observar, aproximadamente el usuario está observando los sitios indicados aunque es cierto que en la página de inicio es un poco complicado saber de primeras donde podría estar la opción que permite listar los cursos a los que se está subscrito.
 
 ## 4 CONCLUSIONES 
 
