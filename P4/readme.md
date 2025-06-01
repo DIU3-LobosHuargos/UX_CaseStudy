@@ -29,9 +29,18 @@ Las pruebas realizadas con Maze han sido las siguientes:
 
 Hemos usado SUS Calculator:
 
+- Caso A:
+
 ![Método UX](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/calculadora-sus-1.png)
 
 ![Método UX](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/calculadora-sus-2.png) 
+
+- Caso B:
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/sus-b1.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/sus-b1.png)
+
+![https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/sus-b2.png](https://github.com/DIU3-LobosHuargos/UX_CaseStudy/blob/master/P4/img/sus-b2.png)
+
   
 - Tabla A/B Testing con resultados para A y B
 
