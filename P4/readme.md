@@ -35,11 +35,11 @@ Hemos usado SUS Calculator:
   
 - Tabla A/B Testing con resultados para A y B
 
-El usuario que ha realizado el test de Maze para el caso B ha concluido que la tarea de reservar un curso no es complicado; se puede encontrar con facilidad. Si es cierto que cuando llegaba a la última pantalla donde salía el mapa no entendía muy bien donde podría estar la opción de reservar el curso, intuía que las localizaciones eran las zonas donde estarían disponibls los cursos.
+Los usuarios que han realizado el test de Maze para el caso B han concluido que la tarea de reservar un curso no es complicada del todo; se puede encontrar con facilidad. Por una parte, es cierto que cuando llegaban a la última pantalla donde salía el mapa no entendían muy bien donde podría estar la opción de reservar el curso, se intuía que las localizaciones eran las zonas donde estarían disponibles los cursos. Además, la experiencia de usuario no fué del todo satisfactoria, pensaban que había algunas cosas que se podrían mejorar de la interfaz para que fuese más "bonita" (aunque funcional es).
 
-El usuario que ha realizado el test de Maze para el caso A ha concluido que la navegación por la aplicación está muy lograda (buena experiencia de usuario); aunque ha tardado un poco de tiempo en encontrar donde estaría la zona donde están los cursos a los que estaríia subscrito (opción del menú inferior). Probando opciones lo ha acabado encontrando.
+Los usuarios que han realizado el test de Maze para el caso A han concluido que la navegación por la aplicación está muy lograda (buena experiencia de usuario); aunque han tardado un poco de tiempo en encontrar donde estaría la zona en la que están los cursos a los que estaría subscrito (opción del menú inferior). Al final, a base de ir probando en opciones lo han acabado encontrando. Destacar que sus conclusiones en general han sido buenas en cuanto a la usabilidad del sistema ya que han conseguido realizar la tarea dada, además de ver otras opciones funcionales en la aplicación mientras navegaban por ella.
 
-Las evaluaciones de los resultados obtenidos por las pruebas A/B testing, vienen en el cuestionario SUS que hemos mostrado en el apartado anterior.
+Las evaluaciones de los resultados obtenidos por las pruebas A/B testing, vienen en el cuestionario SUS que hemos mostrado en el apartado anterior par algunos de estos usuarios que han realizado las pruebas.
 
 - Eye Tracking para B
 
